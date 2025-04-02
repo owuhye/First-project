@@ -1,4 +1,4 @@
-package array;
+package loop.ex;
 
 public class EnhancedFor1 {
 
