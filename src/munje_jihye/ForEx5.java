@@ -12,7 +12,7 @@ public class ForEx5 {
         }*/
 
     // 별찍기 빈칸 반대 - 성공!
-      /*  for (int i = 1; i <= 5; i++) {
+        for (int i = 1; i <= 5; i++) {
             for (int j = 4; j >= i; j--) {
                 System.out.print("_");
             }
@@ -20,10 +20,10 @@ public class ForEx5 {
                     System.out.print("*");
                 }
             System.out.println();
-        }*/
+        }
 
         //별찍기 빈칸 - 성공!
-       /* for (int i = 1; i <= 5; i++) {
+      /*  for (int i = 1; i <= 5; i++) {
             for (int j = 1; j <= i; j++) {
                 System.out.print("*");
             }
