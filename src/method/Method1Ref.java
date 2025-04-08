@@ -12,6 +12,8 @@ public class Method1Ref {
         //게산2
         int sum2 = add(15, 20);
         System.out.println("결과2 출력 : "+ sum2);
+
+        add(100, 200);  //반환값 안써도됨 , 호출만해도 가능
     }
 
     //add메서드
